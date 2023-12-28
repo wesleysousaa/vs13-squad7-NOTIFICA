@@ -11,6 +11,7 @@ Esse projeto foi desenvolvido pelos seguintes integrantes:
 
 - Assucena Araújo
 - Adam Cardoso
+- Anderson Luiz
 - André Miranda
 - Kevin Matos
 - Lorenzo Panato
