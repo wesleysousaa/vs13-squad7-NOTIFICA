@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido pelos seguintes integrantes:
 
 Passo-a-passo:
 
-1. No diretório raiz do projeto você verá o relatório e protótipos
+1. No diretório raiz do projeto você verá o relatório
    
 2. Você também pode acessar todos os protótipos diretamente pela figma, basta acessar o seguinte link:
 
