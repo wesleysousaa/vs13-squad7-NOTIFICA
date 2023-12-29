@@ -32,6 +32,7 @@ Passo-a-passo:
 3. Nosso Brainstorm e Pesquisa podem ser acessados por [Aqui](https://www.canva.com/design/DAF4LGxTGEQ/UvauBp6HzA9kAljaSnmrXA/edit?utm_content=DAF4LGxTGEQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)!
   
 4. Nosso Relatório Final tambem pode ser acessado diretamente por [Aqui](https://www.canva.com/design/DAF4NgRwwx0/PiLzL8heQmxtM6QEnjgkMw/edit?utm_content=DAF4NgRwwx0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)!
+5. Task das Classes e Diagrama Disponíveis [Aqui](https://github.com/adamcardoso/vemser-trabalho-final)!
 
 ## 💻 Sobre a ODS 6
 > <strong>Água Potável e Saneamento, destacando a urgência de ações globais.</strong>
