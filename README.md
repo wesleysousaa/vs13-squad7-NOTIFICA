@@ -34,6 +34,7 @@ Passo-a-passo:
 4. Nosso Relatório Final tambem pode ser acessado diretamente por [Aqui](https://www.canva.com/design/DAF4NgRwwx0/PiLzL8heQmxtM6QEnjgkMw/edit?utm_content=DAF4NgRwwx0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)!
 5. Task das Classes e Diagrama Disponíveis [Aqui](https://github.com/adamcardoso/vemser-trabalho-final)!
 6. Notion de Organização e Cronograma [Aqui](https://fog-fountain-9d9.notion.site/Solu-es-Inovadoras-Time-07-9a4548fa935944d5896c243b6206366e?pvs=4)!
+7. Ultimo deploy do nosso WebApp [Aqui](https://notifica-nine.vercel.app/)
 
 ## 💻 Sobre a ODS 6
 > <strong>Água Potável e Saneamento, destacando a urgência de ações globais.</strong>
